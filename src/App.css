@@ -6,11 +6,13 @@
   justify-content: center;
   background:linear-gradient(140deg,red,orange,yellow);
 }
+
 .counter{
   display: flex;
+  font-weight: bold;
   justify-content: center;
   align-items: center;
-  font-size:x-large;
+  font-size: xxx-large;
 }
 .button{
   cursor: pointer;

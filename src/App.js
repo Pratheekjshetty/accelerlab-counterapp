@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="container">
       <div>
+        <h1 className="heading">Counter App</h1>
         <div className="counter">
           <p>{count}</p>
         </div>
