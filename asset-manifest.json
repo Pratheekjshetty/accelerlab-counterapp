@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accelerlab-counterapp/static/css/main.7d3ad222.css",
+    "main.js": "/accelerlab-counterapp/static/js/main.8eb18e99.js",
+    "static/js/453.3d273f61.chunk.js": "/accelerlab-counterapp/static/js/453.3d273f61.chunk.js",
+    "index.html": "/accelerlab-counterapp/index.html",
+    "main.7d3ad222.css.map": "/accelerlab-counterapp/static/css/main.7d3ad222.css.map",
+    "main.8eb18e99.js.map": "/accelerlab-counterapp/static/js/main.8eb18e99.js.map",
+    "453.3d273f61.chunk.js.map": "/accelerlab-counterapp/static/js/453.3d273f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3ad222.css",
+    "static/js/main.8eb18e99.js"
+  ]
+}
